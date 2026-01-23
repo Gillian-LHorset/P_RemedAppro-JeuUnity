@@ -3,13 +3,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+P_RemedAppro-JeuRts/[Ll]ibrary/
+P_RemedAppro-JeuRts/[Tt]emp/
+P_RemedAppro-JeuRts/[Oo]bj/
+P_RemedAppro-JeuRts/[Bb]uild/
+P_RemedAppro-JeuRts/[Bb]uilds/
+P_RemedAppro-JeuRts/[Ll]ogs/
+P_RemedAppro-JeuRts/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
@@ -97,3 +97,5 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# ajout
